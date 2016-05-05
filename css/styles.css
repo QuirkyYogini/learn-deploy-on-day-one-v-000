@@ -133,9 +133,16 @@ a:visited {
   height: 400px;
 }
 
+#heather-rhoden-cover {
+  background-image: url("../assets/img/heather-rhoden-cover.jpg")
+}
+
+#heather-rhoden-card {
+  background-image: url("../assets/img/heather-rhoden.jpg")
+}
 
 #nana-adukrow-cover {
-  background-image: url("..assets/img/nana-adukrow-cover.jpg");
+  background-image: url("../assets/img/nana-adukrow-cover.jpg");
 
 }
 
